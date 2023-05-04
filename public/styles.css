@@ -2330,6 +2330,22 @@ video {
   padding-left: 0.25rem;
 }
 
+.pr-12{
+  padding-right: 3rem;
+}
+
+.pr-2{
+  padding-right: 0.5rem;
+}
+
+.pr-3{
+  padding-right: 0.75rem;
+}
+
+.pr-1{
+  padding-right: 0.25rem;
+}
+
 .text-left{
   text-align: left;
 }
